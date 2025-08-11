@@ -7,3 +7,4 @@ Our secoundary color:
 ```bash
 9D99FF
 ```
+<img src="/logo.png" alt="Project Banner">
